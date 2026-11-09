@@ -1,0 +1,6 @@
+{
+  "name": "FitTrainer - Entrenador Personal Android",
+  "description": "App de entrenamiento personalizado para Android con catálogo de más de 40 ejercicios a repeticiones o por tiempo, temporizador circular interactivo, audio y rutinas a medida.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
